@@ -1,3 +1,6 @@
-this dbms file is relating to data base management which
-relating to one of the computer language i stuied this in 
-my degree
+Database Management System is a software or technology used to manage data from a database. 
+Some popular databases are MySQL, Oracle, MongoDB, etc.
+DBMS provides many operations e.g. creating a database, Storing in the database, updating an existing database, delete from the database.
+DBMS is a system that enables you to store, modify, and retrieve data in an organized way.
+It also provides security to the database.
+Here is the notes for DBMS class
