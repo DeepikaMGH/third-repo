@@ -1,3 +1,3 @@
-this java file is using to make java language files
-thie CI/CD most popular open source platform is jenkins which is build based
-  on java scripting language
+java is one of the most using programming language
+  even our jenkins is also coded in java version 17
+ java is object oriented language 
